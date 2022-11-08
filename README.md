@@ -145,6 +145,11 @@
 ## Respuesta:
 ***
 ## `plate *`
+***
+***
+<br/>
+<br/>
+<br/>
 
 # #12. SELECT EVERY APPLE THAT´S NEXTO TO A PLATE - Selector de HERMANOS ADYACENTES (A+B)
 
@@ -294,6 +299,7 @@
 <br/>
 <br/>
 <br/>
+
 # #24. SELECT THE LAST APPLE AND ORANGE - Selector de TIPO ULTIMO(:last-of-type)
 -------------------------------------------------------------------------------------------------
 	Selecciona el último elemento de un tipo específico.
@@ -302,7 +308,11 @@
 ***
 ## 1ª)`.small:last-of-type`
 ## 2ª)`apple:last-of-type,orange:last-of-type`
-
+***
+***
+<br/>
+<br/>
+<br/>
 
 # #25. SELECT THE EMPTY BENTOS - Selector VACÍO(:empty)
 -------------------------------------------------------------------------------------------------
