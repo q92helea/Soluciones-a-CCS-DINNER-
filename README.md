@@ -1,4 +1,9 @@
-* # # #01. SELECTS THE PLATES! - Selector TIPO
+![CSS Diner COMPLETADO](./CSS%20Dinner.png)
+
+
+
+
+  # #01. SELECTS THE PLATES! - Selector TIPO
 
 	Selecciona los elementos por su tipo
 
@@ -12,7 +17,7 @@
 <br/>
 
 
-# # #02. SELECTS THE BENTO BOXES! - Selector TIPO
+#  #02. SELECTS THE BENTO BOXES! - Selector TIPO
 
 
     Selecciona los elementos por su tipo
